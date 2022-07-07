@@ -1,0 +1,12 @@
+[
+  {
+    "Location": "Chicago",
+    "SiteCode": "CHI",
+    "ipaddress": "10.10.10.0/24"
+  },
+  {
+    "Location": "New York",
+    "SiteCode": "NYC",
+    "ipaddress": "10.10.11.0/24"
+  }
+]
